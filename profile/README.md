@@ -1,7 +1,7 @@
 # SharpEmu
 
 <p align="center">
-  <img src="./assets/images/logo.png" width=30% height=30% />
+  <img src="../assets/images/logo.png" width=30% height=30% />
 </p>
 
 <p align="center">
