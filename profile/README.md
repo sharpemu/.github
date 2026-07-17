@@ -17,20 +17,3 @@
 <p align="center">
   <strong>Join our Discord for development updates, compatibility discussions, support, and community chat.</strong>
 </p>
-
----
-
-> [!WARNING]  
-> Currently the primary development target is Windows.
-
-> [!WARNING]  
-> SharpEmu is an experimental PS5 emulator developed from scratch in C#. The current focus is on accuracy and infrastructure setup rather than game-specific compatibility.
-
-## Info
-
-SharpEmu is an emulator project currently in its early stages of development.
-
-This project is developed purely for research and educational purposes. There are no commercial goals associated with it. We enjoy learning about system architecture and reverse engineering.
-
-SharpEmu focuses exclusively on the PlayStation 5.  
-Our goal is **not** to emulate PS4 games, as there is already an excellent emulator dedicated to that platform: **ShadPS4**.
