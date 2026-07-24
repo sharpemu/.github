@@ -17,3 +17,11 @@
 <p align="center">
   <strong>Join our Discord for development updates, compatibility discussions, support, and community chat.</strong>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sharpemu/sharpemu#support">
+    <img src="https://img.shields.io/badge/Support-GitHub%20Sponsors%20%26%20Crypto-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support SharpEmu">
+  </a>
+</p>
