@@ -27,3 +27,8 @@
     <img src="https://img.shields.io/badge/Support-GitHub%20Sponsors%20%26%20Crypto-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support SharpEmu">
   </a>
 </p>
+
+---
+
+> [!IMPORTANT]
+> **Official channels:** Only **sharpemu.app** and the links listed in this GitHub repository are affiliated with SharpEmu. Any other websites, accounts, or donation pages are unofficial and unauthorized.
